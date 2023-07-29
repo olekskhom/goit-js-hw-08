@@ -9,7 +9,7 @@ skonfigurowania dodatkowych opcji [zobacz dokumentację](https://parceljs.org/)
    [Ściągnij i zainstaluj](https://nodejs.org/en/), jeśli jest taka potrzeba.
 2. Sklonuj to repozytorium.
 3. Zmień nazwę folderu z `parcel-project-template` na nazwę swojego projektu.
-4. Utwórz nowe, puste repozytorium na GitHub.
+4. Utwórz nowe, puste repozytorium na GitHub..
 5. Otwórz projekt w VSCode, uruchom terminal i zwiąż projekt z repozytorium
    GitHub
    [zgodnie z instrukcją](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
