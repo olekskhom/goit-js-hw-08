@@ -1,12 +1,13 @@
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
+
 // Add imports above this line
 
 import { galleryItems } from './gallery-items';
 
 // Change code below this line
 
-console.log(galleryItems);
+// console.log(galleryItems);
 
 const galleryEl = document.querySelector('.gallery');
 
@@ -21,6 +22,7 @@ function createGalleryCardMurkup(gallery) {
     })
     .join('');
 }
+
 
 const cardsMarcup = createGalleryCardMurkup(galleryItems);
 galleryEl.innerHTML = cardsMarcup;
